@@ -1,0 +1,11 @@
+The follwing are my programming tools
+
+Master a Programming Language: Deep dive into Python, JavaScript, Java, or any language of your choice.
+Improve Problem-Solving Skills: Participate in coding challenges or hackathons.
+Get Comfortable with Version Control: Master Git and GitHub (or GitLab/Bitbucket).
+Build Real-World Projects: E.g., e-commerce sites, portfolio websites, task management apps.
+Contribute to Open Source: Make meaningful contributions to open-source repositories.
+Obtain Certifications: E.g., AWS (which you’ve already achieved—nice!), Azure, Google Cloud, or specific tech stacks.
+Set Time for Learning: Dedicate an hour daily or weekly for learning new things.
+Create a Coding Routine: Build a habit of coding consistently, even if for a short time each day.
+
