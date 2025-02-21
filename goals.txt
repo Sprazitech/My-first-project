@@ -1,4 +1,4 @@
-The follwing are my programming tools
+The follwing are my programming goals.
 
 Master a Programming Language: Deep dive into Python, JavaScript, Java, or any language of your choice.
 Improve Problem-Solving Skills: Participate in coding challenges or hackathons.
